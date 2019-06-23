@@ -1,0 +1,25 @@
+img{
+    padding:10px 15px 10px 15px;
+    width: 60px;
+    height: 60px;
+    background-color: violet;
+
+
+}
+div {
+    width: 90px;
+    height: 80px;
+    padding-left:32px;
+    padding-top:32px;
+    padding-right:32px;
+    padding-bottom:32px;
+    background-color: yellow; 
+    margin: auto;
+    border: 16px solid orange;
+}
+section {
+    width: 186px;
+    height: 176px;
+    border: 10px solid red;
+
+}
